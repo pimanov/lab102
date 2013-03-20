@@ -1,8 +1,8 @@
 lab102
 ======
 
-There is the source code to web site on domain lab102.imec.msu.ru. 
-The ouner is laboratory of general aerodynamycs problem of Mechanics Research center of Moscow State Universytet
-by M.V.Lomonosov. 
+Here is the source code to web site on domain lab102.imec.msu.ru.
+The owner is laboratory of general aerodynamics problem of 
+Mechanics Research center of Moscow State Universytet by M.V. Lomonosov.
 
-bootstap from twitter is in base of this site. 
+bootstap from twitter is in base of this site.
